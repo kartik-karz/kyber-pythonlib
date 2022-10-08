@@ -1,6 +1,6 @@
 ### Python3 bindings for crystalskyber reference implementation using CFFI
 
-**Note this python3 binding was built just used for prototyping and playing around with the reference design for fast-paced development before building it properly in C**
+**Note this python3 binding was built just for prototyping and playing around with the reference design for fast-paced development before building it properly in C**
 
 
 This uses reference design from [kyber]([https://github.com/pq-crystals/kyber.git) and modified slightly to add randombytes to the sharedlibs
